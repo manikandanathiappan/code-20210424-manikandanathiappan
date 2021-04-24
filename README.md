@@ -3,7 +3,7 @@
 BMI calculator is useful for calculating BMI value and returning person's BMI category and Health Risk.
 Output is given as a tabulor form for easy tracking of results.
 
-# Run Application
+## Run Application
 
 Clone the application and navigate to the main folder.
 Run `node app.js` to run the application and get the results on the console.
